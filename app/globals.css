@@ -1,0 +1,20 @@
+*{
+  h1{
+    font-size: 20px;
+    font-style:italic;
+  }
+}
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: rgb(15, 15, 15);
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
